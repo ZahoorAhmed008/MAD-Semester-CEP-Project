@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048673319845",
+    "project_id": "jobseek-app",
+    "storage_bucket": "jobseek-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048673319845:android:707e5844a38bfd8a36864c",
+        "android_client_info": {
+          "package_name": "com.example.jobseek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC0AiYIJB9M2wYe76WwfIG-sPR-cdgg1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
